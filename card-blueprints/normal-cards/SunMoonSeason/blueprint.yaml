@@ -1,6 +1,6 @@
 blueprint:
   name: SunMoonSeason
-  description: Sun elevation and Azimut, Moom phase and Season by Michel Jourdain
+  description: Sun elevation and Azimut, Moon phase and Season by Michel Jourdain
   version: "1.0"
   type: card
   
